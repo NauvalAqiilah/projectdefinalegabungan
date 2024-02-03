@@ -1,0 +1,44 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.foto{
+    width: 90px;
+    height: auto;
+}
+
+nav{
+    align-items: center;
+    background-color: #C19A6B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    padding: 12px;
+    color: white;
+    font-size: 16px;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+

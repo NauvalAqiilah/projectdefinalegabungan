@@ -1,0 +1,49 @@
+{
+  "dataSekolah": [
+    {
+      "foto": "/SMPTamanSiswa.jpg",
+      "sekolah": "SMP TAMAN SISWA",
+      "tingkatan": "SMP",
+      "alamat": "Jl Garuda No. 25, Kec. Kemayoran, Kota Jakarta Pusat, Prov. D.K.I. Jakarta",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "foto": "/SantoYoseph.jpg",
+      "sekolah": "SDS Santo Yoseph",
+      "tingkatan": "SD",
+      "alamat": "Jl. Dwi Warna Raya No. 1 - 3, Kec. Sawah Besar, Kota Jakarta Pusat, Prov. D.K.I. Jakarta"
+    },
+    {
+      "id": "3",
+      "sekolah": "SDN PULAU HARAPAN 02 PAGI",
+      "tingkatan": "SD",
+      "foto": "/SDNPulauHarapan02.jpg",
+      "alamat": "Pulau Sabira, Kec. Kepulauan Seribu Utara, Kab. Kepulauan Seribu, Prov. D.K.I. Jakarta"
+    },
+    {
+      "id": "4",
+      "sekolah": "SMKS STRADA 1 JAKARTA",
+      "tingkatan": "SMK",
+      "foto": "/Strada1Jakarta.jpg",
+      "alamat": "JL. GUNUNG SAHARI NO. 88, Kec. Kemayoran, Kota Jakarta Pusat, Prov. D.K.I. Jakarta"
+    },
+    {
+      "id": "5",
+      "sekolah": "SDS Strada Pejompongan",
+      "tingkatan": "SD",
+      "foto": "/StradaPejompongan.jpg",
+      "alamat": "Jl. Petamburan V, Kec. Tanah Abang, Kota Jakarta Pusat, Prov. D.K.I. Jakarta"
+    },
+    {
+      "id": "6",
+      "sekolah": "SDN Pamulang Permai",
+      "tingkatan": "SD",
+      "foto": "/Pamper.jpg",
+      "alamat": "Pamulang Barat, Kec. Pamulang, Kota Tangerang Selatan, Prov. Banten"
+    }
+  ],
+  "total_data": 215372,
+  "page": 1,
+  "per_page": 5
+}
